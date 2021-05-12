@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyabrata017&show_icons=true" alt="PM" /></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/priyabrata017/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Priyabrata Mohapatra" height="30" width="30" /></a>
+
 </p>
