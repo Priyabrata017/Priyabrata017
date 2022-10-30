@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and NLP**
 - 🌱 I’m currently learning **MLOps**
 - 👯 I’m looking to collaborate on **Deep Learning** related projects
-- 💬 Ask me about **Python,ML, DL, Statistics, Linux, Mysql**
+- 💬 Ask me about **Python,ML, DL, Statistics, NLP, Mysql**
 - 📫 How to reach me: **priyabrata007.m@gmail.com** 
 
 
