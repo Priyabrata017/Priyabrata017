@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyabrata017" alt="PM017" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and NLP**
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **MLOps and diving deep into LLM's everyday**
 - 👯 I’m looking to collaborate on **Deep Learning** related projects
 - 💬 Ask me about **Python,ML, DL, Statistics, NLP, Mysql**
 - 📫 How to reach me: **priyabrata007.m@gmail.com** 
